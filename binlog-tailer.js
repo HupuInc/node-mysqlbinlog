@@ -1,3 +1,5 @@
+/* Copyright Marcel Laverdet, 5/6/11 */
+
 "use strict";
 this.MysqlBinlogTailer = MysqlBinlogTailer;
 
